@@ -1,2 +1,4 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+1- Utilizar Java 7 ou superior
+2- Copiar o arquivo matches.log no C:
+3- Projeto Maven, executar clean e install do projeto
+4- Executar a classe GameApp
